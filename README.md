@@ -1,4 +1,4 @@
-# Experimental Markov Chain for Myanmar Text
+# Markov Chain in Myanmar Language
 
 I wrote this small snippet based on golang's [markov chain implementation](https://golang.org/doc/codewalk/markov/) to experiment what markov chain generated texts look like in Myanmar language. Since Myanmar Language don't have spaces between words, I wrote [a small package](https://github.com/ha-shine/mmutil) to break the sentences into words. **Currently this works only in unicode**
 
